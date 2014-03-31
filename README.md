@@ -1,4 +1,4 @@
 myrepo
 ======
 
-https://travis-ci.org/rafaeldacunha/myrepo.svg?branch=master
+<img src=https://travis-ci.org/rafaeldacunha/myrepo.svg?branch=master>
